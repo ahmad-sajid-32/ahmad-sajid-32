@@ -255,7 +255,7 @@ Designed and maintained scalable REST APIs using FastAPI for real-world use case
 - AWS scalability & cloud optimization
 - AI-powered automation workflows
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 - [ ] Master MLOps fundamentals  
 - [ ] Contribute to open-source backend projects  
 - [ ] Write technical blogs  
