@@ -1,7 +1,7 @@
 # 📖 Ahmad Sajid's Developer Journey
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+coding+story;Backend+Engineer+%7C+Automation+%7C+AI;Associate+Software+Engineer+%40+Devisgon" alt="Journey Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+coding+story;Backend+Engineer+%7C+Automation+%7C+AI;Software+Engineer+%40+Devisgon" alt="Journey Header" />
 </div>
 
 ---
