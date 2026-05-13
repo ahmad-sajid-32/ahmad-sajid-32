@@ -115,24 +115,13 @@ Designed and maintained scalable REST APIs using FastAPI for real-world use case
 </table>
 
 ---
+### 🐍 Contribution Journey
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-sajid-32&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmad-sajid-32&theme=vue-dark&hide_border=true" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-sajid-32&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/calebmwelsh/calebmwelsh/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -232,17 +221,6 @@ Designed and maintained scalable REST APIs using FastAPI for real-world use case
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
 
 </div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ahmad-sajid-32&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" />
-
-</div>
-
 
 ---
 
